@@ -12,5 +12,3 @@ A little bit about me:
 - 📫 How to reach me: igor@radovanovigor.com
 - 😄 Let's connect: LinkedIn @igorradovanov
 - ⚡ Fun fact: I like cooking in my spare time 🍳
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igorradovanov)](https://github.com/anuraghazra/github-readme-stats)
