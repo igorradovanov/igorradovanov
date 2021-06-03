@@ -5,7 +5,7 @@
 A little bit about me:
 
 - 🔭 I’m currently working on Full Stack Open Course
-- 💼 I'm currently employed as Managed Services Expert at GoDaddy
+- 💼 I'm currently employed as Technical Lead at GoDaddy
 - 🌱 I’m currently learning Javascript, Express and NodeJS
 - 👯 I’m looking to collaborate on WordPress Core
 - 💬 Ask me about anything about web development
