@@ -16,4 +16,4 @@ jobs:
         with:
           feed-url: https://blog.radovanovigor.com/rss.xml
           readme-section: feed
-          branch: main
+          branch: master
