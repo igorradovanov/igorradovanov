@@ -12,3 +12,9 @@ A little bit about me:
 - 📫 How to reach me: igor@radovanovigor.com
 - 😄 Let's connect: LinkedIn @igorradovanov
 - ⚡ Fun fact: I like cooking in my spare time 🍳
+
+### Latest Posts:
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
