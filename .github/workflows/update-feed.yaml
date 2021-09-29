@@ -1,12 +1,9 @@
 name: Update this repo's README with Latest Posts
 
-# on:
-#   schedule:
-#     # Once a day at 8 AM
-#     - cron: 0 8 * * *
-
 on:
-  workflow_dispatch:
+  schedule:
+    # Once a day at 10 AM
+    - cron: 0 10 * * *
 
 jobs:
   update:
