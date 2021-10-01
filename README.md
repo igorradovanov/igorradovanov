@@ -15,6 +15,6 @@ A little bit about me:
 
 ### Latest Posts:
 
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->
+1. [How to enable Kubernetes YAML Syntax in Visual Studio Code](https://blog.radovanovigor.com/vs-code-kubernetes-yaml-syntax-setup)<br />
+2. [Audit your WordPress installation with the power of WordPress CLI and WPvulnDB](https://blog.radovanovigor.com/audit-wordpress-with-the-power-of-cli)<br />
+3. [WP-ENV - Fast and Easy local WordPress Environment](https://blog.radovanovigor.com/wp-env-local-wordpress-environment)
