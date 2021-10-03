@@ -24,4 +24,10 @@ A little bit about me:
 <a href="mailto:radovanovigor96@gmail.com">![radovanovigor96@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/igorradovanov/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+### RSS Feed (coming soon)
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 
