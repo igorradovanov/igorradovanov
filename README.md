@@ -13,4 +13,8 @@ A little bit about me:
 - 😄 Let's connect: LinkedIn @igorradovanov
 - ⚡ Fun fact: I like cooking in my spare time 🍳
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
