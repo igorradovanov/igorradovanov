@@ -15,7 +15,8 @@ A little bit about me:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WP-ENV - Fast Local WordPress Environment](https://igorradovanov.hashnode.dev/wp-env-fast-local-wordpress-environment)
+- [How secure is your WordPress website?](https://blog.radovanovigor.com/how-secure-is-your-wordpress-website)
+- [WP-ENV - Fast Local WordPress Environment](https://blog.radovanovigor.com/wp-env-fast-local-wordpress-environment)
 <!-- BLOG-POST-LIST:END -->
 
 
