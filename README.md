@@ -15,8 +15,8 @@ A little bit about me:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding proper usage of Linux commands](https://blog.radovanovigor.com/understanding-proper-usage-of-linux-commands)
-- [How secure is your WordPress website?](https://blog.radovanovigor.com/how-secure-is-your-wordpress-website)
+- [Understanding Proper Usage of Linux Commands](https://blog.radovanovigor.com/understanding-proper-usage-of-linux-commands)
+- [How Secure is Your WordPress Website?](https://blog.radovanovigor.com/how-secure-is-your-wordpress-website)
 - [WP-ENV - Fast Local WordPress Environment](https://blog.radovanovigor.com/wp-env-fast-local-wordpress-environment)
 <!-- BLOG-POST-LIST:END -->
 
