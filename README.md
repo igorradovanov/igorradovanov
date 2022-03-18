@@ -13,6 +13,8 @@ A little bit about me:
 - 😄 Let's connect: LinkedIn @igorradovanov
 - ⚡ Fun fact: I like cooking in my spare time 🍳
 
+<a href="https://app.daily.dev/igor_radovanov"><img src="https://api.daily.dev/devcards/bc753d428fbd4092a8e4ef1babf66219.png?r=ae3" width="400" alt="Igor Radovanov's Dev Card"/></a>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Proper Usage of Linux Commands](https://blog.radovanovigor.com/understanding-proper-usage-of-linux-commands)
